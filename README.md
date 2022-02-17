@@ -9,6 +9,16 @@
 <p><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" width=40>
 
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
+![Python language](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&labelColor=black&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&labelColor=black&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&labelColor=black&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)
+
 ![](https://img.shields.io/badge/-Bash-blue)
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/ddWRT-OpenWrt-blue)
@@ -41,10 +51,21 @@
 ![](https://img.shields.io/badge/Jenkins-blue)
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sor88)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sor88&theme=tokyonight&hide_langs_below=1&layout=compact" />
+</a>
+<br>
+<br>
+
 ### Distributve
 <br>
-<img src="https://github.com/sor88/sor88/blob/main/assets/deb2.png?raw=true" width=80/>
-<img src="https://github.com/sor88/sor88/blob/main/assets/opensuse.png?raw=true" width=80/>
+<img src="https://github.com/sor88/sor88/blob/main/assets/linux.png?raw=true" width=80/>
+
+
+
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xm4dn355x)
