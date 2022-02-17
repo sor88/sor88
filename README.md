@@ -7,7 +7,7 @@
 
 ### Language and tools
 <p><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" width=40>
+<!---<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" width=40>-->
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
