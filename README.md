@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![HEADER]()](https://plus.omsklug.com)
+[![Header]()](https://plus.omsklug.com)
+
 <!--
 **sor88/sor88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
