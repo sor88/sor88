@@ -59,11 +59,8 @@
 </a>
 <br>
 <br>
-
-### Distributve
 <br>
-<img src="https://github.com/sor88/sor88/blob/main/assets/linux.png?raw=true" width=80/>
-
+<img src="https://github.com/sor88/sor88/blob/main/assets/linux.png?raw=true" width=120/>
 
 
 
