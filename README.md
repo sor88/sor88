@@ -1,4 +1,4 @@
-[![Header]()](assets/header.jpg)
+[![Header]()](https://github.com/sor88/sor88/blob/main/assets/header.jpg)
 
 <!--
 **sor88/sor88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
