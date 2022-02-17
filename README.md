@@ -44,6 +44,7 @@
 ### Distributve
 <br>
 <img src="https://github.com/sor88/sor88/blob/main/assets/deb2.png?raw=true" width=80/>
+<img src="https://github.com/sor88/sor88/blob/main/assets/opensuse.png?raw=true" width=80/>
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xm4dn355x)
