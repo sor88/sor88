@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Jenkins-blue)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sor88)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sor88&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/convoychat">
   
   <br>
