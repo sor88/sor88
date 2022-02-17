@@ -3,10 +3,10 @@
 
 ## I am a System Administrator of a Linux Operation System with a know Python.
 
-
+<br>
 ### Language and tools
-
-![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png =250x250)
+<p><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" width=40>
 
 
 <!--
