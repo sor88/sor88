@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Header]()](https://plus.omsklug.com)
 
 <!--
