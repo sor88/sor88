@@ -1,8 +1,5 @@
 ![](https://github.com/sor88/sor88/blob/main/assets/header.jpg?raw=true)
 
-
-## I am a System Administrator of a Linux Operation System with a know Python.
-
 <br>
 
 ### Language and tools
